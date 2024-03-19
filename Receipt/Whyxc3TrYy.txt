@@ -1,0 +1,14 @@
+-------
+Receipt
+-------
+Order ID: Whyxc3TrYy
+Name: Jong Haha
+Phone no. : 0127658954
+Address: 1900, Taman Kota, Masjid Tanah, 79999, Melaka
+Item ID    Name                                Type       Member Price    Quantity    Items Price      Promotion      
+----------------------------------------------------------------------------------------------------------------
+C11        Absolute Durian                     Cake       RM 135.0        1           RM 128.25        true           
+P1         Apple pie (3 pieces)                Pastry     RM 9.3          3           RM 27.900000000000002 false          
+Sub-total:        RM  156.15     
+Delivery charge:  RM  2.5        
+Total:            RM  158.65     

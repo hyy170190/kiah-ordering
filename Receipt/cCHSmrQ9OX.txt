@@ -1,0 +1,14 @@
+-------
+Receipt
+-------
+Order ID: cCHSmrQ9OX
+Name: Jong Haha
+Phone no. : 0127658954
+Address: 1900, Taman Kota, Masjid Tanah, 79999, Melaka
+Item ID    Name                                Type       Member Price    Quantity    Items Price      Promotion      
+----------------------------------------------------------------------------------------------------------------
+P5         Pretzel (2 pieces)                  Pastry     RM 13.0         2           RM 26.0          false          
+P6         Pineapple tart (1 container)        Pastry     RM 39.0         1           RM 37.05         true           
+Sub-total:        RM  63.05      
+Delivery charge:  RM  2.5        
+Total:            RM  65.55      

@@ -1,0 +1,20 @@
+C1#Butter cake#Cake#46.00#46.80#false
+C2#Marble cake#Cake#76.50#77.20#false
+C3#Burnt Cheesecake#Cake#120.00#125.00#false
+C4#Chocolate Indulgence#Cake#98.00#105.00#false
+C5#Tiramisu Cake#Cake#98.00#105.00#false
+C6#Oreo Cheese#Cake#98.00#105.00#false
+C7#Black Forest#Cake#130.00#135.00#false
+C8#Carrot Cake#Cake#70.00#75.00#false
+C9#Chocolate Cake#Cake#85.00#90.00#false
+C10#Red Velvet#Cake#125.00#130.00#false
+C11#Absolute Durian#Cake#135.00#140.00#true
+C12#Salted Caramel Macadamia Cheese#Cake#180.00#185.00#true
+C13#White Chocolate Cake#Cake#95.00#98.00#true
+P1#Apple pie (3 pieces)#Pastry#9.30#9.90#false
+P2#Cinnamon Roll (2 pieces)#Pastry#8.20#8.70#false
+P3#Croissant#Pastry#4.20#4.50#false
+P4#Macaron (5 pieces)#Pastry#15.00#15.50#false
+P5#Pretzel (2 pieces)#Pastry#13.00#13.60#false
+P6#Pineapple tart (1 container)#Pastry#39.00#42.00#true
+P7#Spring roll (1 container)#Pastry#30.00#32.00#true

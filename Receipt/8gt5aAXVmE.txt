@@ -1,0 +1,14 @@
+-------
+Receipt
+-------
+Order ID: 8gt5aAXVmE
+Name: Lau
+Phone no. : 123098567
+Address: 18, lolo street, Lubok China, 78123, Melaka
+Item ID    Name                                Type       NonMember Price    Quantity    Items Price      Promotion      
+------------------------------------------------------------------------------------------------------------------
+P6         Pineapple tart (1 container)        Pastry     RM 42.0            4           RM 159.6         true           
+P7         Spring roll (1 container)           Pastry     RM 32.0            3           RM 91.19999999999999 true           
+Sub-total:        RM  250.79999999999998 
+Delivery charge:  RM  3.0        
+Total:            RM  253.79999999999998 

@@ -1,0 +1,4 @@
+member#Alor Gajah#P1#P2#17.5#2.5#23.0
+nonmember#Batu Berendam#P3#P4#20.0#3.5#26.5
+member#Merlimau#C1#C2#122.5#4.0#126.5
+nonmember#Melaka Tengah#C3#C4#230.0#5.0#235.0

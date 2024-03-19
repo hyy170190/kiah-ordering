@@ -1,0 +1,13 @@
+-------
+Receipt
+-------
+Order ID: FORkxDugCP
+Name: Krisna A/P Subramaniam
+Phone no. : 0345672839
+Address: Blok A, unit 101, Condo Barat, Selandar, 76538, Melaka
+Item ID    Name                                Type       Member Price    Quantity    Items Price      Promotion      
+----------------------------------------------------------------------------------------------------------------
+C9         Chocolate Cake                      Cake       RM 85.0         1           RM 85.0          false          
+Sub-total:        RM  85.0       
+Delivery charge:  RM  4.0        
+Total:            RM  89.0       
